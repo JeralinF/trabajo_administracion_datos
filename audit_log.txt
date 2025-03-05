@@ -1,0 +1,13 @@
+2025-03-04 19:30:30,402 - INFO - Clave de encriptación generada y guardada correctamente.
+2025-03-04 19:30:30,961 - INFO - Datos extraídos exitosamente desde la API.
+2025-03-04 19:30:30,974 - INFO - Datos guardados en datos_cripto.csv correctamente.
+2025-03-04 19:30:31,034 - INFO - Datos encriptados y guardados en datos_cripto.csv.enc correctamente.
+2025-03-04 19:30:31,064 - INFO - Datos desencriptados y guardados en datos_cripto_desencriptados.csv correctamente.
+2025-03-04 20:04:09,626 - ERROR - Error en el pipeline: name 'sns' is not defined
+2025-03-04 20:08:47,918 - ERROR - Error en el pipeline: 'NoneType' object has no attribute 'heatmap'
+2025-03-04 20:09:56,564 - ERROR - Error en el pipeline: 'NoneType' object has no attribute 'heatmap'
+2025-03-04 20:10:31,699 - ERROR - Error en el pipeline: 'NoneType' object has no attribute 'heatmap'
+2025-03-04 20:25:05,330 - ERROR - Error en el pipeline: 'NoneType' object has no attribute 'heatmap'
+2025-03-04 20:27:15,279 - ERROR - Error en el pipeline: 'NoneType' object has no attribute 'heatmap'
+2025-03-04 20:50:29,701 - ERROR - Error en el pipeline: 'NoneType' object has no attribute 'heatmap'
+2025-03-04 20:59:15,223 - ERROR - Error en el pipeline: name 'sns' is not defined
