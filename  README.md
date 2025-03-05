@@ -1,6 +1,8 @@
 # Predicción del Precio de Criptomonedas
 
-Este proyecto utiliza un modelo de Máquina de Vectores de Soporte (SVM) para predecir si el precio de una criptomoneda subirá o bajará en las próximas 24 horas, basándose en datos como el precio actual, el cambio en las últimas 24 horas y la capitalización de mercado.
+Este proyecto utiliza un modelo de Máquina de Vectores de Soporte (SVM)
+para predecir si el precio de una criptomoneda subirá o bajará en las próximas 24 horas,
+basándose en datos como el precio actual, el cambio en las últimas 24 horas y la capitalización de mercado.
 
 ## Índice
 
@@ -28,7 +30,7 @@ El modelo se entrena con datos extraídos de un archivo CSV y está listo para p
 1. Clonar el repositorio:
 
     ```bash
-    git
+    git clone https://github.com/JeralinF/trabajo_administracion_datos.git
     ```
 
 2. Cambiar al directorio del proyecto:
